@@ -1,14 +1,10 @@
-//
-// Created by nerea on 18/10/2023.
-//
-
-#ifndef COLECCIONEJERCICIOSNOCIONESCLAVE2_FUNCIONES_H
-#define COLECCIONEJERCICIOSNOCIONESCLAVE2_FUNCIONES_H
+#ifndef FUNCIONES_H
+#define FUNCIONES_H
+#define PI 3.14159
+#define AREA_CIRCULO(r) (PI * (r) * (r))
 
 
-class funciones {
+int suma(int a, int b);
+int resta(int a, int b);
 
-};
-
-
-#endif //COLECCIONEJERCICIOSNOCIONESCLAVE2_FUNCIONES_H
+#endif
