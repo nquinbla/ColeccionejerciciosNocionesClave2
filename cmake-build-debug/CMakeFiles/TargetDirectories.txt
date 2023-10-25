@@ -1,9 +1,0 @@
-C:/Users/nerea/OneDrive/Documentos/GitHub/ColeccionejerciciosNocionesClave2/cmake-build-debug/CMakeFiles/matematicas.dir
-C:/Users/nerea/OneDrive/Documentos/GitHub/ColeccionejerciciosNocionesClave2/cmake-build-debug/CMakeFiles/matematicas_shared.dir
-C:/Users/nerea/OneDrive/Documentos/GitHub/ColeccionejerciciosNocionesClave2/cmake-build-debug/CMakeFiles/main.dir
-C:/Users/nerea/OneDrive/Documentos/GitHub/ColeccionejerciciosNocionesClave2/cmake-build-debug/CMakeFiles/funciones.dir
-C:/Users/nerea/OneDrive/Documentos/GitHub/ColeccionejerciciosNocionesClave2/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/nerea/OneDrive/Documentos/GitHub/ColeccionejerciciosNocionesClave2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-C:/Users/nerea/OneDrive/Documentos/GitHub/ColeccionejerciciosNocionesClave2/cmake-build-debug/_deps/fmt-build/CMakeFiles/fmt.dir
-C:/Users/nerea/OneDrive/Documentos/GitHub/ColeccionejerciciosNocionesClave2/cmake-build-debug/_deps/fmt-build/CMakeFiles/edit_cache.dir
-C:/Users/nerea/OneDrive/Documentos/GitHub/ColeccionejerciciosNocionesClave2/cmake-build-debug/_deps/fmt-build/CMakeFiles/rebuild_cache.dir
